@@ -8,6 +8,8 @@
 * Domain agnostic (designed to be extensible to any health field)
 * Modular, blending existing knowledge structures and terminologies in a useful package
 
+If you are a cyclist or runner, think of it as Strava or MapMyRun for doctors. 
+
 ## What does Entrust do?
 Entrust tracks and analyzes experience. It creates a map for learners to navigate their educational terrain, using real information instead of intuition and guesswork. 
 According to the [ACGME](http://www.acgme.org/), the education of physicians to practice independently is based on experience.  Medical school, residencies, and fellowships are ordered stretches of experience. The Entrust project aims to categorize and quantify experience.
