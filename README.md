@@ -3,7 +3,7 @@
 
 ## Entrust is 
 * An **experience logging application** for health education learners
-* An open source **knowledge base** for analysis of that experience
+* A **knowledge base** for analysis of that experience
 * A **dashboard** of experience progress
 * Domain agnostic (designed to be extensible to any health field)
 * Modular, blending existing knowledge structures and terminologies in a useful package
